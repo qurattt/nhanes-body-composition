@@ -1,0 +1,7 @@
+*.xpt
+*.XPT
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+catboost_info/
+Final_data.csv
